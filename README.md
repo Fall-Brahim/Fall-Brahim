@@ -1,26 +1,30 @@
 # Bonjour ! 👋 je suis Brahim Fall
 
-Je suis un développeur passionné par la technologique de l'information. J’ai acquis de l’expérience en :
-
+Je suis développeur passionné par les nouvelles technologies. Fort d'une expérience en développement web et mobile, sécurité informatique, et Big Data avec Hadoop, je m'efforce de créer des solutions innovantes et performantes.
 - 💻 Développement web et mobile
 - 🔐 Sécurité informatique
 - 📊 Big Data avec Hadoop
 
 ## 🔧 Technologies & Outils
 
+
+
 ### Langages de programmation :
-- ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java)
-- ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python)
-- ![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5)
-- ![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" title="HTML5" alt="HTML5" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" title="CSS3" alt="CSS3" width="40" height="40"/>
+</p>
 
 ### 📚 Frameworks & Bibliothèques :
-- ![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django)
-- ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=flat-square&logo=spring-boot)
-- ![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter)
-- ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?style=flat-square&logo=tailwind-css)
-- ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat-square&logo=bootstrap)
-
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" title="Django" alt="Django" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" title="Spring Boot" alt="Spring Boot" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" title="Flutter" alt="Flutter" width="40" height="40"/>&nbsp;
+  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg" title="Tailwind CSS" alt="Tailwind CSS" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" title="Bootstrap" alt="Bootstrap" width="40" height="40"/>
+</p>
 ---
 
 ### 📫 Me contacter :
