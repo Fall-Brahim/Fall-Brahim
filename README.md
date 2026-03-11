@@ -111,8 +111,8 @@ Applications web back-end robustes avec Django :
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=brahimfall&show_icons=true&theme=tokyonight&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brahimfall&layout=compact&theme=tokyonight&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Fall-Brahim&show_icons=true&theme=tokyonight&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Fall-Brahim&layout=compact&theme=tokyonight&hide_border=true)
 
 </div>
 
@@ -135,6 +135,6 @@ Applications web back-end robustes avec Django :
 
 *"Build it. Containerize it. Ship it. Repeat."*
 
-![Profile Views](https://komarev.com/ghpvc/?username=brahimfall&color=0e75b6&style=flat)
+![Profile Views](https://komarev.com/ghpvc/?username=Fall-Brahim&color=0e75b6&style=flat)
 
 </div>
